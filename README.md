@@ -6,3 +6,6 @@ Laboratory 2:
   
 Laboratory 3:
   Fuzzy logic for traffic simulation
+  
+Laboratory 4:
+  KMeans algorithm with metric calculations for movies recommendations system
