@@ -284,7 +284,7 @@ class MovieRecommendation():
             user (str): name of user for fit rating movies preferences
 
         Returns:
-            str: name of user with mostly similar preferences with given user
+            list: name of user with mostly similar preferences with given user
         """
 
         #  list of users without chosen user
