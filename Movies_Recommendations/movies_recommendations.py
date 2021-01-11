@@ -312,18 +312,36 @@ class MovieRecommendation():
         X = np.array(metric_list)
 
         #  artificial intelligence
-        kmeans = KMeans(init='k-means++', n_clusters=3, n_init=20)
+        kmeans = KMeans(init='k-means++', n_clusters=2, n_init=10)
         kmeans.fit(X)
-        result = kmeans.predict(X)
+        result = kmeans.labels_
 
-        #  get user name from index
-        #  find maximum value index as result AI algorithm
-        idx = None
-        max = np.nanmax(result)
+        #  find metric from cluster nearest integer 1 value
+        #  filter metric for max values
+        #  return list with metrics or single metric value
+        metric_filtered = list()
         for i in range(0, len(result)):
-            if result[i] == max:
-                idx = i
-        ret = user_order[idx]
+            if result[i] == 1:
+                metric_filtered.append(X[i][0])
+        np_metric_filtered = np.array(metric_filtered)
+        max_metric = np.amax(np_metric_filtered)
+        if np_metric_filtered.size > 1:
+            user_idx = list()
+            for i in range(0, len(X)):
+                if max_metric == X[i][0]:
+                    user_idx.append(i)
+        else:
+            user_idx = max_metric
+
+        #  copy metric index to user index and return user or list of users
+        if type(user_idx) == list:
+            ret = list()
+            for idx in user_idx:
+                ret.append(user_order[idx])
+        elif type(user_idx) == int or float:
+            ret = user_order[user_idx]
+        else:
+            ret = None
 
         return ret
 
