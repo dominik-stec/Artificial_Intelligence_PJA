@@ -1,23 +1,23 @@
 # NAI_PJATK_2020
-PJATK laboratory about artificial intelligence.
+PJATK laboratory about artificial intelligence.<br>
 
-Laboratory 2:
-  Game_of_Traveller
+<b>Laboratory 2:</b><br>
+  Game_of_Traveller<br>
   
-Laboratory 3:
-  Fuzzy logic for traffic simulation.
+<b>Laboratory 3:</b><br>
+  Fuzzy logic for traffic simulation.<br>
   
-Laboratory 4:
-  KMeans algorithm with metric calculations for movies recommendations system.
+<b>Laboratory 4:</b><br>
+  KMeans algorithm with metric calculations for movies recommendations system.<br>
 
-Laboratory 5:
-  Support Vector Machine algorithm for classification group of Pima Indians diabetes.
-  Support Vector Machine algorithm for predict heart attack risk with data generator.
+<b>Laboratory 5:</b><br>
+  Support Vector Machine algorithm for classification group of Pima Indians diabetes.<br>
+  Support Vector Machine algorithm for predict heart attack risk with data generator.<br>
   
-Laboratory 6:
-  Neural Networks with Tensorflow Keras library for classification and regression models in Google Colaboratory environment.
-  Classification of Pima Indians diabetes.
-  Classification of animals into color images.
-  Classification of clothes into greyscale images.
-  Regression calculation of houses price.
+<b>Laboratory 6:</b><br>
+  Neural Networks with Tensorflow Keras library for classification and regression models in Google Colaboratory environment.<br>
+  Classification of Pima Indians diabetes.<br>
+  Classification of animals into color images.<br>
+  Classification of clothes into greyscale images.<br>
+  Regression calculation of houses price.<br>
   
