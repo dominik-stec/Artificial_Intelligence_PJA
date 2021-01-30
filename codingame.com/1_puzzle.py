@@ -1,3 +1,12 @@
+"""
+author: Dominik Stec,
+index:  s12623,
+email:  s12623@pja.edu.pl
+
+source link:
+https://www.codingame.com/ide/puzzle/onboarding
+"""
+
 # game loop
 while 1:
     enemy_1 = input()  # name of enemy 1
