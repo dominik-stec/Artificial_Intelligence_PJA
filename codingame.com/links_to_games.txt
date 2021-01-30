@@ -1,0 +1,13 @@
+1_puzzle:
+https://www.codingame.com/ide/puzzle/onboarding
+#intro
+
+2_puzzle:
+https://www.codingame.com/ide/puzzle/ascii-art
+
+3_puzzle:
+https://www.codingame.com/ide/puzzle/defibrillators
+
+4_puzzle:
+https://www.codingame.com/ide/puzzle/mime-type
+#partial
