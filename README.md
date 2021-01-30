@@ -1,6 +1,9 @@
 # NAI_PJATK_2020
 PJATK laboratory about artificial intelligence.<br>
 
+<b>Laboratory 1:</b><br>
+  codingame.com<br>
+
 <b>Laboratory 2:</b><br>
   Game_of_Traveller<br>
   
