@@ -1,3 +1,12 @@
+"""
+author: Dominik Stec,
+index:  s12623,
+email:  s12623@pja.edu.pl
+
+source link:
+https://www.codingame.com/ide/puzzle/ascii-art
+"""
+
 import sys
 import math
 
