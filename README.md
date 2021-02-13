@@ -24,3 +24,8 @@ PJATK laboratory about artificial intelligence.<br>
   Classification of clothes into greyscale images.<br>
   Regression calculation of houses price.<br>
   
+<b>Laboratory 7:</b><br>
+  OpenAI Gym library for simulation game Atari Breakout.
+  
+<b>Laboratory conclusion:</b><br>
+  RNN with LSTM layers for generate text in given style, depends on data used for fitting neural network.
