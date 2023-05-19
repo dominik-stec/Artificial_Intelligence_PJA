@@ -78,30 +78,30 @@
 <b>`Laboratory 1:`</b><br><br>
 Web service for pragrammers - codingame.com<br>
 
-<b>Laboratory 2:</b><br><br>
+<b>`Laboratory 2:`</b><br><br>
 Traveller game in EasyAI.<br>
 
-<b>Laboratory 3:</b><br><br>
+<b>`Laboratory 3:`</b><br><br>
 Fuzzy logic for traffic simulation.<br>
 
-<b>Laboratory 4:</b><br><br>
+<b>`Laboratory 4:`</b><br><br>
 KMeans algorithm with metric calculations for movies recommendations system.<br>
 
-<b>Laboratory 5:</b><br><br>
+<b>`Laboratory 5:`</b><br><br>
 Support Vector Machine algorithm for classification group of Pima Indians diabetes.<br><br>
 Support Vector Machine algorithm for predict heart attack risk with data generator.<br>
 
-<b>Laboratory 6:</b><br><br>
+<b>`Laboratory 6:`</b><br><br>
 Neural Networks with Tensorflow Keras library for classification and regression models in Google Colaboratory environment.<br><br>
 Classification of Pima Indians diabetes.<br><br>
 Classification of animals into color images.<br><br>
 Classification of clothes into greyscale images.<br><br>
 Regression calculation of houses price.<br>
 
-<b>Laboratory 7:</b><br><br>
+<b>`Laboratory 7:`</b><br><br>
 OpenAI Gym library for simulation the Atari game Breakout.
 
-<b>Laboratory 8:</b><br><br>
+<b>`Laboratory 8:`</b><br><br>
 RNN with LSTM layers for generate text in given style, depends on data used for fitting neural network.
 
 ### Libraries and frameworks
@@ -138,11 +138,14 @@ PIP python package menager is need. <br/>
   <br/>
   <br/>
 
-3. Install required frameworks and libraries with python PIP manager
+3. Install required frameworks and libraries with python PIP manager into isolated virtual environemnt
    <br/>
 
    ```sh
-
+    cd Artificial_Intelligence_PJA
+    python -m venv ./
+    source ./bin/activate
+    pip install scikit-fuzzy matplotlib pygame
    ```
 
    <br/>
@@ -156,7 +159,7 @@ conda install -c auto easyai
 
   <br/>
    <br/>
-5. Install required frameworks and libraries with Anaconda
+5. Install required frameworks and libraries with Anaconda GUI
   <br/>
    <br/>
 
@@ -178,15 +181,18 @@ use 'w' or 's' to move up or down
 
 <br />
 
-htdocs directory with copied sources:
+<b>3_Fuzzy_Logic</b>
 
-<img src="images/dir.png" width="300"/>
+```sh
+python fuzzy_logic.py
+```
+
+Fuzzy logic with traffic simulation
+
+<img src="images/2_1.png" width="300"/>
+<img src="images/2_2.png" width="300"/>
+
 <br />
-
-Game screenshots:
-
-<img src="images/game1.png" width="300"/>
-<img src="images/game2.png" width="300"/>
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
