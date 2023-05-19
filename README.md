@@ -128,16 +128,12 @@ PIP python package menager is need. <br/>
 ### Installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/dominik-stec/Artificial_Intelligence_PJA.git
    ```
-2. Install Anaconda<br>
 
-platform for develop and deploy python solution <br>
-`https://www.anaconda.com/`
-<br/>
-
-3. Install required frameworks and libraries with python PIP manager into isolated virtual environment
+2. Install required frameworks and libraries with python PIP manager into isolated virtual environment
    <br/>
 
    ```sh
@@ -147,7 +143,11 @@ platform for develop and deploy python solution <br>
     pip install scikit-fuzzy matplotlib pygame pandas scikit-learn xlrd
    ```
 
-   <br/>
+3. Install Anaconda<br>
+
+platform for develop and deploy python solution <br>
+`https://www.anaconda.com/`
+<br/>
 
 4. Run Anacodna <br> and create new environment <br> after that run environment <br> and in terminal type: <br>
 
@@ -214,6 +214,25 @@ System predict risk of accident into chosen model with SVM
 <img src="images/4_1.png" width="300"/>
 <img src="images/4_2.png" width="300"/>
 <img src="images/4_3.png" width="300"/>
+
+<br />
+
+<b>6_Neural_Networks</b>
+
+`Deploy into Google Collaboratory`
+
+Regression problem solved with neural network machine learning
+
+<img src="images/5_1.png" width="300"/>
+<img src="images/5_2.png" width="300"/>
+<img src="images/5_3.png" width="300"/>
+<img src="images/5_4.png" width="300"/>
+<img src="images/5_5.png" width="300"/>
+<img src="images/5_6.png" width="300"/>
+
+Classification problem solved with neural network machine learning
+
+<img src="images/5_7.png" width="300"/>
 
 <br />
 
