@@ -133,22 +133,20 @@ PIP python package menager is need. <br/>
    ```
 2. Install Anaconda<br>
 
-- platform for develop and deploy python solution <br>
-  `https://www.anaconda.com/`
-  <br/>
-  <br/>
+platform for develop and deploy python solution <br>
+`https://www.anaconda.com/`
+<br/>
 
-3. Install required frameworks and libraries with python PIP manager into isolated virtual environemnt
+3. Install required frameworks and libraries with python PIP manager into isolated virtual environment
    <br/>
 
    ```sh
     cd Artificial_Intelligence_PJA
     python -m venv ./
     source ./bin/activate
-    pip install scikit-fuzzy matplotlib pygame
+    pip install scikit-fuzzy matplotlib pygame pandas scikit-learn xlrd
    ```
 
-   <br/>
    <br/>
 
 4. Run Anacodna <br> and create new environment <br> after that run environment <br> and in terminal type: <br>
@@ -158,10 +156,8 @@ conda install -c auto easyai
 ```
 
   <br/>
-   <br/>
 5. Install required frameworks and libraries with Anaconda GUI
   <br/>
-   <br/>
 
 <!-- USAGE EXAMPLES -->
 
@@ -191,6 +187,19 @@ Fuzzy logic with traffic simulation
 
 <img src="images/2_1.png" width="300"/>
 <img src="images/2_2.png" width="300"/>
+
+<br />
+
+<b>4_Recommendations_KMeans</b>
+
+```sh
+python movies_recommendations.py
+```
+
+System recommendations for movies watchers with KMeans
+
+<img src="images/3_1.png" width="300"/>
+<img src="images/3_2.png" width="300"/>
 
 <br />
 
