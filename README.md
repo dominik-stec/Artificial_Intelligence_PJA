@@ -75,7 +75,7 @@
 
 ## Project description
 
-<b>Laboratory 1:</b><br><br>
+<b>`Laboratory 1:`</b><br><br>
 Web service for pragrammers - codingame.com<br>
 
 <b>Laboratory 2:</b><br><br>
@@ -131,10 +131,13 @@ PIP python package menager is need. <br/>
    ```sh
    git clone https://github.com/dominik-stec/Artificial_Intelligence_PJA.git
    ```
-2. Install Anaconda - platform for develop and deploy python solution
-   `https://www.anaconda.com/`
-   <br/>
-   <br/>
+2. Install Anaconda<br>
+
+- platform for develop and deploy python solution <br>
+  `https://www.anaconda.com/`
+  <br/>
+  <br/>
+
 3. Install required frameworks and libraries with python PIP manager
    <br/>
 
@@ -145,7 +148,7 @@ PIP python package menager is need. <br/>
    <br/>
    <br/>
 
-4. Run Anacodna and create new environment after that run environment and in terminal type
+4. Run Anacodna <br> and create new environment <br> after that run environment <br> and in terminal type: <br>
 
 ```sh
 conda install -c auto easyai
@@ -261,7 +264,7 @@ Project URL:
 [product-screenshot]: images/screenshot.png
 [python-shield]: https://img.shields.io/badge/-python-red
 [python-url]: https://www.python.org/
-[jupyter-shield]: https://img.shields.io/badge/-jupyter-green
+[jupyter-shield]: https://img.shields.io/badge/-jupyter-yellow
 [jupyter-url]: https://jupyter.org/
 [keras-shield]: https://img.shields.io/badge/-keras-blue
 [keras-url]: https://keras.io/
