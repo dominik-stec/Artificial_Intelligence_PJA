@@ -155,9 +155,8 @@ platform for develop and deploy python solution <br>
 conda install -c auto easyai
 ```
 
-  <br/>
 5. Install required frameworks and libraries with Anaconda GUI
-  <br/>
+   <br/>
 
 <!-- USAGE EXAMPLES -->
 
@@ -200,6 +199,21 @@ System recommendations for movies watchers with KMeans
 
 <img src="images/3_1.png" width="300"/>
 <img src="images/3_2.png" width="300"/>
+
+<br />
+
+<b>5_Support_Vector_Machine</b>
+
+```sh
+python SVC_Pima_diabetes.py
+python calc_hearth_attack_risk.py
+```
+
+System predict risk of accident into chosen model with SVM
+
+<img src="images/4_1.png" width="300"/>
+<img src="images/4_2.png" width="300"/>
+<img src="images/4_3.png" width="300"/>
 
 <br />
 
