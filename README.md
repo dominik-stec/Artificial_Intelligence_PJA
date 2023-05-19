@@ -75,33 +75,33 @@
 
 ## Project description
 
-<b>Laboratory 1:</b><br>
+<b>Laboratory 1:</b><br><br>
 Web service for pragrammers - codingame.com<br>
 
-<b>Laboratory 2:</b><br>
+<b>Laboratory 2:</b><br><br>
 Traveller game in EasyAI.<br>
 
-<b>Laboratory 3:</b><br>
+<b>Laboratory 3:</b><br><br>
 Fuzzy logic for traffic simulation.<br>
 
-<b>Laboratory 4:</b><br>
+<b>Laboratory 4:</b><br><br>
 KMeans algorithm with metric calculations for movies recommendations system.<br>
 
-<b>Laboratory 5:</b><br>
-Support Vector Machine algorithm for classification group of Pima Indians diabetes.<br>
+<b>Laboratory 5:</b><br><br>
+Support Vector Machine algorithm for classification group of Pima Indians diabetes.<br><br>
 Support Vector Machine algorithm for predict heart attack risk with data generator.<br>
 
-<b>Laboratory 6:</b><br>
-Neural Networks with Tensorflow Keras library for classification and regression models in Google Colaboratory environment.<br>
-Classification of Pima Indians diabetes.<br>
-Classification of animals into color images.<br>
-Classification of clothes into greyscale images.<br>
+<b>Laboratory 6:</b><br><br>
+Neural Networks with Tensorflow Keras library for classification and regression models in Google Colaboratory environment.<br><br>
+Classification of Pima Indians diabetes.<br><br>
+Classification of animals into color images.<br><br>
+Classification of clothes into greyscale images.<br><br>
 Regression calculation of houses price.<br>
 
-<b>Laboratory 7:</b><br>
+<b>Laboratory 7:</b><br><br>
 OpenAI Gym library for simulation the Atari game Breakout.
 
-<b>Laboratory 8:</b><br>
+<b>Laboratory 8:</b><br><br>
 RNN with LSTM layers for generate text in given style, depends on data used for fitting neural network.
 
 ### Libraries and frameworks
@@ -246,13 +246,9 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Artificial_Intelligence_PJA
-
-.svg?style=for-the-badge
-[contributors-url]: https://github.com/dominik-stec/Artificial_Intelligence_PJA
-/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Artificial_Intelligence_PJA
-.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Artificial_Intelligence_PJA.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/Artificial_Intelligence_PJA/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Artificial_Intelligence_PJA.svg?style=for-the-badge
 [forks-url]: https://github.com/dominik-stec/Artificial_Intelligence_PJA/network/members
 [stars-shield]: https://img.shields.io/github/stars/dominik-stec/Artificial_Intelligence_PJA.svg?style=for-the-badge
 [stars-url]: https://github.com/dominik-stec/Artificial_Intelligence_PJA/stargazers
