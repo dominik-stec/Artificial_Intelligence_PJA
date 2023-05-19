@@ -29,6 +29,7 @@ class GameOfTravel( TwoPlayersGame ):
     def __init__(self, players):
         self.players = players
         self.nplayer = 1  # player 1 starts
+        self.current_player = 1  # player 1 starts
         self.map_width = 20  # map width size
         self.map_height = 10 # map height size
         self.gates_modulo_trimmer = 3  # game over gates count
