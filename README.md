@@ -164,8 +164,9 @@ conda install -c auto easyai
 
 <b>1_codingame.com</b>
 
+<img src="images/0_1.png" width="300"/><br>
+
 `deploy sources into www.codingame.com`
-<img src="images/0_1.png" width="300"/>
 
 <br>
 
