@@ -162,6 +162,13 @@ conda install -c auto easyai
 
 ## How to use
 
+<b>1_codingame.com</b>
+
+`deploy sources into www.codingame.com`
+<img src="images/0_1.png" width="300"/>
+
+<br>
+
 <b>2_Game_EasyAI</b>
 
 ```sh
